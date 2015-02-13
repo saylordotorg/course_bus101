@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS101: Introduction to Business"
+course_description: "An introductory survey that will expose you to business terminology, concepts, and current business issues, with the intent of helping students develop a viable business vocabulary, foster critical and analytical thinking, and refine business decision-making skills."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Entrepreneurship and Legal Forms of Business** <span
 id="2"></span> 
 *This unit will illustrate how the various forms of ownership (sole

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS101: Introduction to Business"
+course_description: "An introductory survey that will expose you to business terminology, concepts, and current business issues, with the intent of helping students develop a viable business vocabulary, foster critical and analytical thinking, and refine business decision-making skills."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "BUS101: Introduction to Business"
 ------------------------------------------------------
 

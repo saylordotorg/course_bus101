@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS101: Introduction to Business"
+course_description: "An introductory survey that will expose you to business terminology, concepts, and current business issues, with the intent of helping students develop a viable business vocabulary, foster critical and analytical thinking, and refine business decision-making skills."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Context of Business** <span id="1"></span> 
 *This unit covers basic macroeconomic concepts which provide the context
 for business.*  *This unit will explore economic and historical

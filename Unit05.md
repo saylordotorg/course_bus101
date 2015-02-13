@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS101: Introduction to Business"
+course_description: "An introductory survey that will expose you to business terminology, concepts, and current business issues, with the intent of helping students develop a viable business vocabulary, foster critical and analytical thinking, and refine business decision-making skills."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Management** <span id="5"></span> 
 *Management is a process through which the goals of an organization are
 achieved and change in the workplace is handled.  This process involves

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS101: Introduction to Business"
+course_description: "An introductory survey that will expose you to business terminology, concepts, and current business issues, with the intent of helping students develop a viable business vocabulary, foster critical and analytical thinking, and refine business decision-making skills."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Accounting, Finance, and Banking** <span id="4"></span> 
 *Daily there are financial decisions made by the business owner that
 will impact every phase of the business operation such as payroll, cash
